@@ -1,4 +1,4 @@
-# imported
+# Updash
 Updash modular utility
 
 # Summary
@@ -13,7 +13,7 @@ npm install updash
 ```
 var up = require('updash');
 
-var primary = [1,2,3];
+var primary = [1,2,3,4];
 var secondary = [2,3];
 
 var result = up.isSubArray(primary, secondary);
