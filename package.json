@@ -1,0 +1,15 @@
+{
+  "name": "updash",
+  "version": "0.1.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eleon182/updash.git"
+  },
+  "description": "Updash modular utility",
+  "main": "updash.js",
+  "author": "Esteban Leon",
+  "scripts": {},
+  "dependencies": {
+    "lodash": "^4.8.2"
+  }
+}
