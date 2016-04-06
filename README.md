@@ -23,7 +23,7 @@ console.log(result);
 Output: true
 
 # API
-- isSubArray  //determines if an array is a sub array of another array
+- isSubArray  (determines if an array is a sub array of another array)
 
 # Features
 - To come!
