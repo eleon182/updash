@@ -8,8 +8,11 @@
   "description": "Updash modular utility",
   "main": "updash.js",
   "author": "Esteban Leon",
-  "scripts": {},
+  "scripts": {
+    "test": "jasmine-node --color --verbose test"
+  },
   "dependencies": {
+    "jasmine-node": "^1.14.5",
     "lodash": "^4.8.2"
   }
 }
