@@ -24,6 +24,9 @@ Output: true
 
 # API
 - isSubArray  (determines if an array is a sub array of another array)
+- sizeOfArray (returns the size of the array)
+- cutFromArray (removes one item from the array)
+- checkIfExists (determines if the item is in the object passed in)
 
 # Features
 - To come!
